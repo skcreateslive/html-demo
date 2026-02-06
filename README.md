@@ -1,3 +1,3 @@
 # html-demo
 this is my first repository
-git
+git are now active
